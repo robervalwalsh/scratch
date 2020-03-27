@@ -1,5 +1,5 @@
-[scratch](#scratch)
-
+* [scratch](#scratch)
+   *  [subscratch](#sub-scratch)
 
 # scratch
 scratch area for git learning
